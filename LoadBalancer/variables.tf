@@ -1,0 +1,2 @@
+variable "azs" {}
+variable "ami" {}

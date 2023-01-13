@@ -1,0 +1,1 @@
+azzone = "ap-southeast-1a"

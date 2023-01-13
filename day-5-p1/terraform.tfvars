@@ -1,0 +1,6 @@
+user_to_add ="Mahesh-kukundoor"
+group_to_add = "CMS-OPS"
+SGName = "MYSG-DEMO-Test"
+instancename = "mahesh-demotest"
+instancetype = "t2.micro"
+ami = "ami-005835d578c62050d"

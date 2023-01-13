@@ -1,0 +1,7 @@
+region     = "ap-southeast-1"
+vpccidr    = "10.0.0.0/16"
+vpcname    = "demo-vpc"
+vpc_igname = "demo-vpc-ig"
+sub1_cidr  = "10.0.3.0/24"
+sub2_cidr  = "10.0.6.0/24"
+ami = "ami-005835d578c62050d"

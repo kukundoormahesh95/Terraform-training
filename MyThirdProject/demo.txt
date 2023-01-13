@@ -1,0 +1,12 @@
+"hello"
+"World!!!"
+key_name = "Provision-key"
+            #provisioner "file" {
+              ## destination = "/home/ec2-user/demo.txt"
+              #connection {
+               # type     = "ssh"
+                #user     = "ec2-user"
+               # private_key = file("provision-key.pem")
+               # host     = self.public_ip
+             # }
+            #}
